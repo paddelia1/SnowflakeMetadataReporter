@@ -6,3 +6,4 @@ This Excel document requires install of the snowflake ODBC driver and the creati
 
 For now the duplicate finder function requires that you install a procedure to your snowflake instance. 
 It can be in any database and it will let you inspect any database within the instance as long as your provide the fully qualified name of the object.
+![image](https://user-images.githubusercontent.com/62514847/196827811-5f01128d-1917-4d99-a8b6-afa3ab42f7f0.png)
