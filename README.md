@@ -17,6 +17,7 @@ Inspect duplicate data
 Generate DDL script for your entire database
 
 ![image](https://user-images.githubusercontent.com/62514847/196828454-d1a6e848-479b-4c1c-90b9-385285de32dc.png)
+
 DSN
 
 ![image](https://user-images.githubusercontent.com/62514847/196828752-aa9f23bf-ae19-485d-b7d9-22e8ae6648cf.png)
